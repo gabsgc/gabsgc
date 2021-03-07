@@ -1,12 +1,12 @@
 # Hi there! 👋:blush:
  
-My name is Gabriela Garcia and I'm from Brazil (:brazil:). I'm currently a Software Engineering student at [Universidade de Vassouras](https://www.universidadedevassouras.edu.br/) and Ambassador of [Inova-san 2020](https://www.inovasan.com.br/). I'm passionate about learn, teach and help, so I volunteered as Front-End Developer at [Invenção Z](https://invencaoz.org/) and as IT Teacher at [Projeto Social "Eu, cidadão digital"](https://www.universidadedevassouras.edu.br/graduacao/engenharia-de-software). 
+My name is Gabriela Garcia and I'm from Brazil (:brazil:). I'm currently a Software Engineering student at [Universidade de Vassouras](https://www.universidadedevassouras.edu.br/) and Ambassador of [Inova-san 2020](https://www.inovasan.com.br/). I'm passionate about learn, teach and help, so I volunteered as Front-End Developer at [Invenção Z](https://invencaoz.org/) and as IT Teacher at [Projeto Social "Eu, cidadão digital"](https://youtu.be/cHZM8axJFjU). 
 
 In my free time I like to read books (:books:), to watch movies and series (:tv:), to listen to music (:musical_note:) and to write stories (:pencil2:).
 
 # About me 
 <!-- - 🌱 I’m currently learning React and React Native. -->
-- 🔭 I’m currently working on projects at [Haze Shift](https://hazeshift.com.br/). -->
+- 🔭 I’m currently working on projects at [Haze Shift](https://hazeshift.com.br/).
 
  ## Skills:
 <p align="left">
