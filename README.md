@@ -5,7 +5,7 @@ My name is Gabriela Garcia and I'm from Brazil (:brazil:). I'm currently a Softw
 In my free time I like to read books (:books:), to watch movies and series (:tv:), to listen to music (:musical_note:) and to write stories (:pencil2:).
 
 # About me 
-<!-- - 🌱 I’m currently learning React and React Native. -->
+- 🌱 I’m currently learning React and Flask.
 - 🔭 I’m currently working on projects at [Haze Shift](https://hazeshift.com.br/).
 
  ## Skills:
