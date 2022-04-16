@@ -5,7 +5,7 @@ My name is Gabriela Garcia and I'm from Brazil (:brazil:). I'm currently a Consu
 In my free time I like to read books (:books:), to watch movies and series (:tv:), to listen to music (:musical_note:) and to write stories (:pencil2:).
 
 # About me 
-- 🌱 I’m currently learning Android, Kotlin, MySQL and Django.
+- 🌱 I’m currently learning Android, Kotlin, Java, MySQL and Django.
 - ⚡ Curious fact: I like to watch South Korean and Turkish series.
 
  ## Skills:
@@ -31,6 +31,9 @@ In my free time I like to read books (:books:), to watch movies and series (:tv:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C Sharp" width="40" height="40">
 </p>
   
