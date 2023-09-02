@@ -20,6 +20,7 @@ In my free time I like to read books (:books:), to watch movies and series (:tv:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
@@ -28,11 +29,19 @@ In my free time I like to read books (:books:), to watch movies and series (:tv:
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="40" height="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
 </p>
-  
+
+<h5>Banco de Dados </h5>
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="40" height="40">
+</p>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsgc&layout=compact&hide=html" alt="gabsgc" />
 
 ## Would you like to find me?
