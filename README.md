@@ -1,11 +1,11 @@
 # Hi there! 👋:blush:
  
-My name is Gabriela Garcia and I'm from Brazil (:brazil:). I'm currently a Software Developer Junior at [DeliveryOn](https://deliveryon.com.br/) and a Software Engineering student at [Universidade de Vassouras](https://www.universidadedevassouras.edu.br/). I'm passionate about learn, teach and help, so I volunteered as Front-End Developer at [Invenção Z](https://invencaoz.org/) and as IT Teacher at [Projeto Social "Eu, cidadão digital"](https://youtu.be/cHZM8axJFjU). Ambassador of Inova-san 2020 and member of the organizing team of [Inova-san 2021](https://www.inovasan.com.br/).
+My name is Gabriela Garcia and I'm from Brazil (:brazil:). I'm currently a Software Developer Junior and a Software Engineering student at [Universidade de Vassouras](https://www.universidadedevassouras.edu.br/). I'm passionate about learn, teach and help, so I volunteered as Front-End Developer at [Invenção Z](https://invencaoz.org/) and as IT Teacher at [Projeto Social "Eu, cidadão digital"](https://youtu.be/cHZM8axJFjU). Ambassador of Inova-san 2020 and member of the organizing team of [Inova-san 2021](https://www.inovasan.com.br/).
 
 In my free time I like to read books (:books:), to watch movies and series (:tv:), to listen to music (:musical_note:) and to write stories (:pencil2:).
 
 # About me 
-- 🌱 I’m currently learning PHP and Java.
+- 🌱 I’m currently learning Java.
 - ⚡ Curious fact: I like to watch South Korean and Turkish series.
 
  ## Skills:
@@ -33,6 +33,7 @@ In my free time I like to read books (:books:), to watch movies and series (:tv:
    <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="40" height="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C-Sharp" witdh="40" height="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
 </p>
 
