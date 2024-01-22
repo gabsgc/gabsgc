@@ -1,6 +1,10 @@
 # Hi there! 👋☺️
  
-My name is Gabriela Garcia and I'm from Brazil 🇧🇷. I'm a Software Engineer from [Universidade de Vassouras](https://www.universidadedevassouras.edu.br/). I'm passionate about learn, teach and help, so I volunteered as Front-End Developer at [Invenção Z](https://invencaoz.org/) and as IT Teacher at [Projeto Social "Eu, cidadão digital"](https://youtu.be/cHZM8axJFjU). Ambassador of Inova-san 2020 and member of the organizing team of [Inova-san 2021](https://www.inovasan.com.br/).
+My name is Gabriela Garcia and I'm from Brazil 🇧🇷. I'm a Software Engineer from [Universidade de Vassouras](https://www.universidadedevassouras.edu.br/). I'm passionate about learn, teach and help, so I volunteered as an IT Teacher at the [Projeto Social "Eu, cidadão digital"](https://youtu.be/cHZM8axJFjU), an initiative led by the Software Engineering course at Vassouras University. Furthermore, I explored my skills as a Front-End Developer at Invenção Z and had the honor of being appointed as an Ambassador for Inova-san in 2020.
+
+Recently, I worked as a Junior Full-Stack Software Developer at a foodtech, where I applied my technical knowledge to contribute to innovative solutions. 🍔💡
+
+My commitment to applying my talents and skills to generate innovative solutions propels my journey forward. I am eager to learn, grow, and collaborate with the tech and innovation community each day. 👩‍💻🤝
 
 In my free time I like reading books 📖, watching movies and series📺 and writing stories📝.
 
