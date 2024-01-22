@@ -1,12 +1,13 @@
-# Hi there! 👋:blush:
+# Hi there! 👋☺️
  
-My name is Gabriela Garcia and I'm from Brazil (:brazil:). I'm currently a Software Developer Junior and a Software Engineering student at [Universidade de Vassouras](https://www.universidadedevassouras.edu.br/). I'm passionate about learn, teach and help, so I volunteered as Front-End Developer at [Invenção Z](https://invencaoz.org/) and as IT Teacher at [Projeto Social "Eu, cidadão digital"](https://youtu.be/cHZM8axJFjU). Ambassador of Inova-san 2020 and member of the organizing team of [Inova-san 2021](https://www.inovasan.com.br/).
+My name is Gabriela Garcia and I'm from Brazil 🇧🇷. I'm a Software Engineer from [Universidade de Vassouras](https://www.universidadedevassouras.edu.br/). I'm passionate about learn, teach and help, so I volunteered as Front-End Developer at [Invenção Z](https://invencaoz.org/) and as IT Teacher at [Projeto Social "Eu, cidadão digital"](https://youtu.be/cHZM8axJFjU). Ambassador of Inova-san 2020 and member of the organizing team of [Inova-san 2021](https://www.inovasan.com.br/).
 
-In my free time I like to read books (:books:), to watch movies and series (:tv:), to listen to music (:musical_note:) and to write stories (:pencil2:).
+In my free time I like reading books 📖, watching movies and series📺 and writing stories📝.
 
+<!--
 # About me 
 - 🌱 I’m currently learning Java.
-- ⚡ Curious fact: I like to watch South Korean and Turkish series.
+- ⚡ Curious fact: I like to watch South Korean and Turkish series. -->
 
  ## Skills:
  <h5>Mobile</h5>
