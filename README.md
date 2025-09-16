@@ -1,12 +1,24 @@
 # Hi there! 👋☺️
  
-My name is Gabriela Garcia and I'm from Brazil 🇧🇷. I'm a Software Engineer from [Universidade de Vassouras](https://www.universidadedevassouras.edu.br/). I'm passionate about learn, teach and help, so I volunteered as an IT Teacher at the [Projeto Social "Eu, cidadão digital"](https://youtu.be/cHZM8axJFjU), an initiative led by the Software Engineering course at Vassouras University. Furthermore, I explored my skills as a Front-End Developer at Invenção Z and had the honor of being appointed as an Ambassador for Inova-san in 2020.
+👩‍💻 About Me
 
-Recently, I worked as a Junior Full-Stack Software Developer at a foodtech, where I applied my technical knowledge to contribute to innovative solutions. 🍔💡
+My name is Gabriela Garcia, I’m a Software Engineer from Universidade de Vassouras, currently pursuing a postgraduate degree in Distributed Software Architecture at PUC Minas.
 
-My commitment to applying my talents and skills to generate innovative solutions propels my journey forward. I am eager to learn, grow, and collaborate with the tech and innovation community each day. 👩‍💻🤝
+I’m passionate about technology, continuous learning, and sharing knowledge. I have experience as a Full-Stack Developer and as a volunteer in social projects focused on digital inclusion and entrepreneurial education, where I contributed by teaching and mentoring.
 
-In my free time I like reading books 📖, watching movies and series📺 and writing stories📝.
+My professional journey has been driven by the commitment to applying my skills to build innovative and impactful solutions, while collaborating and growing within the tech community.
+
+🌱 Interests
+
+- Software Architecture & Distributed Systems
+
+- Web Development (Front-End & Full-Stack)
+
+- Teaching, mentoring, and open-source contributions
+
+- Reading 📖, movies/series 📺, writing stories 📝
+
+- Playing keyboard 🎹
 
 <!--
 # About me 
@@ -34,12 +46,7 @@ In my free time I like reading books 📖, watching movies and series📺 and wr
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="40" height="40">
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C-Sharp" witdh="40" height="40">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
 </p>
 
 <h5>Banco de Dados </h5>
